@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "svipas.code-autocomplete",
+        "ajshort.include-autocomplete",
+        "visualstudioexptteam.vscodeintellicode",
+        "dsznajder.es7-react-js-snippets",
+        "sudhan.neondark-theme",
+        "formulahendry.auto-close-tag",
+        "thekalinga.bootstrap4-vscode"
+    ]
+}
